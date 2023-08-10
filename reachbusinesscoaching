@@ -1,0 +1,570 @@
+
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<!-- Meta -->
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="theme-color" content="#E9C9B5">
+<!-- End Meta -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MH7KKPL');</script>
+<!-- End Google Tag Manager -->
+<meta name="facebook-domain-verification" content="wzuf5tglaz8crbktzly80hnest5agh" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="144x144" href="https://reachbusinesscoaching.co.uk/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://reachbusinesscoaching.co.uk/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://reachbusinesscoaching.co.uk/favicon-48x48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://reachbusinesscoaching.co.uk/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="144x144" href="https://reachbusinesscoaching.co.uk/favicon-144x144.png">
+<link rel="manifest" href="https://reachbusinesscoaching.co.uk/site.webmanifest">
+<link rel="mask-icon" href="https://reachbusinesscoaching.co.uk/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!-- End Favicons -->
+<!-- Vendor Styles -->
+<script src="https://kit.fontawesome.com/0aec7206f9.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Muli:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.5/mmenu.min.css">
+<!-- End Vendor Styles -->
+<!-- Vendor JS -->
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/ga.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/8.5.5/mmenu.js"></script>
+<!-- End Vendor JS -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<!-- This site is optimized with the Yoast SEO plugin v19.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Blog - REACH Business Coaching</title>
+<meta name="description" content="REACH Business Coaching | A collection of blogs and news giving you advice, insight, tips &amp; tricks to improve your business" />
+<link rel="canonical" href="https://reachbusinesscoaching.co.uk/blog/" />
+<link rel="next" href="https://reachbusinesscoaching.co.uk/blog/page/2/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Blog - REACH Business Coaching" />
+<meta property="og:description" content="REACH Business Coaching | A collection of blogs and news giving you advice, insight, tips &amp; tricks to improve your business" />
+<meta property="og:url" content="https://reachbusinesscoaching.co.uk/blog/" />
+<meta property="og:site_name" content="REACH Business Coaching" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://reachbusinesscoaching.co.uk/#organization","name":"REACH Business Coaching","url":"https://reachbusinesscoaching.co.uk/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://reachbusinesscoaching.co.uk/#/schema/logo/image/","url":"https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/11/logo.png","contentUrl":"https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/11/logo.png","width":133,"height":55,"caption":"REACH Business Coaching"},"image":{"@id":"https://reachbusinesscoaching.co.uk/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://reachbusinesscoaching.co.uk/#website","url":"https://reachbusinesscoaching.co.uk/","name":"REACH Business Coaching","description":"","publisher":{"@id":"https://reachbusinesscoaching.co.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://reachbusinesscoaching.co.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":["WebPage","CollectionPage"],"@id":"https://reachbusinesscoaching.co.uk/blog/#webpage","url":"https://reachbusinesscoaching.co.uk/blog/","name":"Blog - REACH Business Coaching","isPartOf":{"@id":"https://reachbusinesscoaching.co.uk/#website"},"datePublished":"2020-05-07T08:25:40+00:00","dateModified":"2021-12-17T16:29:33+00:00","description":"REACH Business Coaching | A collection of blogs and news giving you advice, insight, tips & tricks to improve your business","breadcrumb":{"@id":"https://reachbusinesscoaching.co.uk/blog/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://reachbusinesscoaching.co.uk/blog/"]}]},{"@type":"BreadcrumbList","@id":"https://reachbusinesscoaching.co.uk/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://reachbusinesscoaching.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog"}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel="alternate" type="application/rss+xml" title="REACH Business Coaching &raquo; Feed" href="https://reachbusinesscoaching.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="REACH Business Coaching &raquo; Comments Feed" href="https://reachbusinesscoaching.co.uk/comments/feed/" />
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://reachbusinesscoaching.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.0.5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//reachbusinesscoaching.co.uk/wp-content/cache/wpfc-minified/f2u7aia9/2spo5.css" media="all"/>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<!-- <link rel='stylesheet' id='contact-form-7-css'  href='https://reachbusinesscoaching.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wpcf7-redirect-script-frontend-css'  href='https://reachbusinesscoaching.co.uk/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=6.0.5' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wpfront-scroll-top-css'  href='https://reachbusinesscoaching.co.uk/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.7.08086' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='alt-style-css'  href='https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/dist/css/app.css?ver=1.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='lnetoverride-style-css'  href='https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/style.css?ver=6.0.5' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='popup-maker-site-css'  href='//reachbusinesscoaching.co.uk/wp-content/uploads/pum/pum-site-styles.css?generated=1655197726&#038;ver=1.16.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='__EPYT__style-css'  href='https://reachbusinesscoaching.co.uk/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.1.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//reachbusinesscoaching.co.uk/wp-content/cache/wpfc-minified/12yrdw0n/3td4n.css" media="all"/>
+<style id='__EPYT__style-inline-css' type='text/css'>
+.epyt-gallery-thumb {
+width: 33.333%;
+}
+</style>
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.4.1.min.js?ver=6.0.5' id='jquery-js'></script>
+<script type='text/javascript' id='__ytprefs__-js-extra'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/reachbusinesscoaching.co.uk\/wp-admin\/admin-ajax.php","security":"d9f01ea54a","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/reachbusinesscoaching.co.uk\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/reachbusinesscoaching.co.uk\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"14.1.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script src='//reachbusinesscoaching.co.uk/wp-content/cache/wpfc-minified/1ony3yzp/2spo5.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' defer src='https://reachbusinesscoaching.co.uk/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.1.1' id='__ytprefs__-js'></script> -->
+<link rel="https://api.w.org/" href="https://reachbusinesscoaching.co.uk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://reachbusinesscoaching.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://reachbusinesscoaching.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.5" />
+<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v8.13.58-->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentId", "standard-page"]);
+</script>
+<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style><link rel="icon" href="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/11/cropped-favicon-144x144-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/11/cropped-favicon-144x144-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/11/cropped-favicon-144x144-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/11/cropped-favicon-144x144-1-270x270.png" />
+<style type="text/css" id="wp-custom-css">
+.single-post .content p a, .single-post .content p a strong {font-weight:bolder;}		</style>
+<script src='//reachbusinesscoaching.co.uk/wp-content/cache/wpfc-minified/e59k75yn/2spo5.js' type="text/javascript"></script>
+<!-- <script src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/assets/js/cloud9carousel.js"></script> -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/countup@1.8.2/dist/countUp.min.js"></script>
+</head>
+<body class="blog no-js font-sans w-full overflow-x-hidden top">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MH7KKPL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="my-page" class="font-sans">
+<div id="my-header" style="display: none;">
+<nav id="my-menu">
+<div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="menu"><li id="menu-item-780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-780"><a href="https://reachbusinesscoaching.co.uk/your-business-coach/">About Us</a></li>
+<li id="menu-item-781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-781"><a href="https://reachbusinesscoaching.co.uk/business-coaching/">1-2-1 Coaching</a>
+<ul class="sub-menu">
+<li id="menu-item-782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-782"><a href="https://reachbusinesscoaching.co.uk/business-coaching/online-business-coach/">Online REACH Club</a></li>
+<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href="https://reachbusinesscoaching.co.uk/business-coaching/business-coaching-session/">Alignment Session</a></li>
+<li id="menu-item-784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-784"><a href="https://reachbusinesscoaching.co.uk/business-coaching/1-2-1-coaching/">1-2-1 Coaching</a></li>
+<li id="menu-item-786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-786"><a href="https://reachbusinesscoaching.co.uk/business-coaching/business-team-building-day/">Team Days</a></li>
+<li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-793"><a href="https://reachbusinesscoaching.co.uk/events/planning-day/">REACH Planning Day</a></li>
+</ul>
+</li>
+<li id="menu-item-2127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2127"><a href="https://reachbusinesscoaching.co.uk/business-coaching/online-business-coach/">Online REACH Club</a></li>
+<li id="menu-item-787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-787"><a href="https://reachbusinesscoaching.co.uk/success-stories/">Success Stories</a></li>
+<li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-124 current_page_item current_page_parent menu-item-788"><a href="https://reachbusinesscoaching.co.uk/blog/" aria-current="page">Blog</a></li>
+<li id="menu-item-789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-789"><a href="https://reachbusinesscoaching.co.uk/events/">Events</a></li>
+<li id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790"><a href="https://reachbusinesscoaching.co.uk/video-center/">Video</a></li>
+<li id="menu-item-2099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2099"><a href="https://reachbusinesscoaching.co.uk/the-book/">My Book</a></li>
+<li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="https://reachbusinesscoaching.co.uk/contact/">Contact</a></li>
+<li id="menu-item-792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-792"><a href="https://resources.reachbusinesscoaching.co.uk/users/sign_in">Client Area</a></li>
+</ul></div>        </nav>
+</div>
+<div id="my-content" class="bg-white">
+<!-- Header -->
+<header class="fixed bg-blue-400 z-10 w-full relative">
+<div class="mx-auto py-10 lg:py-4 container flex justify-between px-10 lg:px-0">
+<!-- Logo -->
+<div class="w-1/3 lg:w-auto">
+<a href="https://reachbusinesscoaching.co.uk">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/logo.svg" alt="Reach Business Coaching Logo">
+</a>
+</div>
+<!-- End Logo -->
+<!-- Menu -->
+<div class="hidden lg:flex flex-col justify-between items-end">
+<div class="flex items-center">
+<a class="text-white mr-4" href="tel:01509767588">Call us on 01509 767 588</a>
+<a class="btn is-small is-white" style="margin-right: 15px" href="https://resources.reachbusinesscoaching.co.uk/users/sign_in">Client Area</a>
+<a class="btn is-small is-yellow" href="/reach/contact/">CONTACT US</a>
+</div>
+<nav>
+<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://reachbusinesscoaching.co.uk/your-business-coach/">About Us</a></li>
+<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-254"><a href="https://reachbusinesscoaching.co.uk/business-coaching/">1-2-1 Coaching</a>
+<ul class="sub-menu">
+<li id="menu-item-2390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2390"><a href="https://reachclub.co.uk/">Online REACH Club</a></li>
+<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="https://reachbusinesscoaching.co.uk/business-coaching/business-coaching-session/">Alignment Session</a></li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://reachbusinesscoaching.co.uk/business-coaching/1-2-1-coaching/">1-2-1 Coaching</a></li>
+<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="https://reachbusinesscoaching.co.uk/business-coaching/business-team-building-day/">Team Days</a></li>
+<li id="menu-item-608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-608"><a href="https://reachbusinesscoaching.co.uk/events/planning-day/">REACH Planning Day</a></li>
+</ul>
+</li>
+<li id="menu-item-2389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2389"><a href="https://reachclub.co.uk/">Online REACH Club</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"><a href="https://reachbusinesscoaching.co.uk/success-stories/">Success Stories</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-124 current_page_item current_page_parent menu-item-253"><a href="https://reachbusinesscoaching.co.uk/blog/" aria-current="page">Blog</a></li>
+<li id="menu-item-258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-258"><a href="https://reachbusinesscoaching.co.uk/events/">Events</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://reachbusinesscoaching.co.uk/video-center/">Video</a></li>
+<li id="menu-item-2098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2098"><a href="https://reachbusinesscoaching.co.uk/the-book/">My Book</a></li>
+</ul></div>                    </nav>
+</div>
+<!-- End Menu -->
+<!-- Mobile Menu -->
+<a class="z-100 relative flex lg:hidden items-center" href="#my-menu">
+<button id="mobile-menu-button" class="hamburger hamburger--collapse" type="button">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
+</a>
+<!-- End Mobile Menu -->
+</div>
+</header>
+<!-- End Header -->
+<!-- Hero -->
+<div class="relative h-screen w-full flex flex-col justify-center items-center banner">
+<!-- Background Image -->
+<div class="absolute top-0 left-0 w-full h-full bg-cover bg-centre" style="background-image: url(https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/05/success-stories-scaled.jpg);"></div>
+<!-- End Background Image -->
+<!-- Title -->
+<div class="lg:w-1/2 relative text-center px-10 lg:px-0">
+<h1 class="text-white font-bold text-6xl">REACH Blog</h1>
+</div>
+<!-- End Title -->
+<!-- Subtitle -->
+<h3 class="px-10 lg:px-0 text-white text-center lg:w-2/3 mt-10 relative text-3xl font-thin">With our wide variety of clients and many business coaching events there is always something happening at REACH. Catch up here…</h3>
+<!-- End Subtitle -->
+<!-- Breadcrumbs -->
+<div class="absolute w-full left-0 bottom-0">
+<div class="container mx-auto pb-10 text-white px-10 lg:px-0">
+<p id="breadcrumbs"><span><span><a href="https://reachbusinesscoaching.co.uk/">Home</a> / <span class="breadcrumb_last" aria-current="page">Blog</span></span></span></p>    </div>
+</div>
+<!-- End Breadcrumbs -->
+</div>
+<!-- End Hero -->
+<div class="">
+<div class="relative text-blue-700 px-10 lg:px-0 mb-10 lg:mb-0 ">
+<div class="relative lg:absolute flex flex-wrap w-full h-96 lg:h-full ">
+<div class="w-full lg:w-1/2 bg-cover bg-center h-full" style="background-image: url(https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/05/10bfb86f03bfe2b8ed2da5a21c50355c_f43-500x400.jpg);"></div>
+<div class="hidden lg:block w-full lg:w-1/2 bg-blue-100 h-full"></div>
+</div>
+<div class="container mx-auto flex flex-wrap relative ">
+<div class="w-full lg:w-1/2"></div>
+<div class="bg-blue-100 w-full lg:w-1/2 relative">
+<div class="absolute h-full top-0 flex justify-center items-center ">
+<div class="hidden lg:block arrow-left is-pale-blue"></div>
+</div>
+<a href="https://reachbusinesscoaching.co.uk/the-art-of-negotiation-how-to-secure-successful-business-deals/" class="w-full py-16 px-8 block">
+<h2 class="text-4xl font-bold mt-2">The art of negotiation: How to secure successful business deals</h2>
+<h3 class="text-lg italic mt-4 mb-8">09th Aug 2023</h3>
+<div class="h-1 bg-blue-700 w-32 my-8"></div>
+<div class="text-xl font-thin">
+</div>
+<span class="inline-block btn no-shadow is-dark-clear mt-10">Read More</span>
+</a>
+</div>
+</div>
+</div>
+<div class="relative text-blue-700 px-10 lg:px-0 mb-10 lg:mb-0 ">
+<div class="relative lg:absolute flex flex-wrap w-full h-96 lg:h-full flex-row-reverse">
+<div class="w-full lg:w-1/2 bg-cover bg-center h-full" style="background-image: url(https://reachbusinesscoaching.co.uk/wp-content/uploads/2022/05/IMG-7-2-500x400.jpg);"></div>
+<div class="hidden lg:block w-full lg:w-1/2 bg-blue-100 h-full"></div>
+</div>
+<div class="container mx-auto flex flex-wrap relative flex-row-reverse">
+<div class="w-full lg:w-1/2"></div>
+<div class="bg-blue-100 w-full lg:w-1/2 relative">
+<div class="absolute h-full top-0 flex justify-center items-center right-0">
+<div class="hidden lg:block arrow-right is-pale-blue"></div>
+</div>
+<a href="https://reachbusinesscoaching.co.uk/building-a-strong-brand-identity-is-the-foundation-of-business-success/" class="w-full py-16 px-8 block">
+<h2 class="text-4xl font-bold mt-2">A strong brand identity is the foundation of business success</h2>
+<h3 class="text-lg italic mt-4 mb-8">02nd Aug 2023</h3>
+<div class="h-1 bg-blue-700 w-32 my-8"></div>
+<div class="text-xl font-thin">
+</div>
+<span class="inline-block btn no-shadow is-dark-clear mt-10">Read More</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-gray-400">
+<div class="container mx-auto px-10 lg:px-0">
+<div class="flex py-8 justify-center items-center">
+<form action="" method="get" class="relative" id="select2-holder">
+<select name="cat" id="select-trigger">
+<option value="">Filter by Category</option>
+<option value="19">Mind Mastery</option>
+<option value="16">Money Mastery</option>
+<option value="15">Team Mastery</option>
+<option value="14">Time Mastery</option>
+<option value="1">Uncategorised</option>
+</select>
+<div class="absolute right-0 top-0 pointer-events-none the-toggle">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/chevron.png" alt="">
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="bg-center" style="background-image: url(https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/A.png); background-size: auto 100%; background-repeat: no-repeat;">
+<div class="container mx-auto py-16 px-10 lg:px-0">
+<div class="flex flex-wrap my-8 -mx-8">
+<a href="https://reachbusinesscoaching.co.uk/building-a-resilient-business-strategies-for-navigating-uncertain-times/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/05/5b4be46e8c3d119773b14462546b3ddf_f27-12-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="The key to business success is to deliver consistently to your customers" />                    <h3 class="text-xl italic mt-4">26 Jul 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Building a resilient business: Strategies for navigating uncertain times</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/the-crucial-role-of-business-strategy-in-todays-competitive-landscape/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/05/9fec5ed25202f1a8f1622b3d6ca2868b_f15-3-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="Reach Business Coaching" loading="lazy" />                    <h3 class="text-xl italic mt-4">19 Jul 2023</h3>
+<h2 class="text-3xl font-thin mt-2">The crucial role of business strategy in today&#8217;s competitive landscape</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/leveraging-market-analysis-for-business-growth-and-strategy/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/05/be047a08f171c9d094d4203259dbf9dc_f11-1-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="Business success is a combination of good strategy, boldness and positivity" loading="lazy" />                    <h3 class="text-xl italic mt-4">13 Jul 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Leveraging market analysis for business growth and strategy</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/overcoming-business-challenges-with-the-help-of-a-business-coach/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2023/07/IMG-18-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="REACH Business Coaching" loading="lazy" />                    <h3 class="text-xl italic mt-4">05 Jul 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Overcoming business challenges with the help of a Business Coach</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/strategies-to-unlock-business-growth-by-scaling-your-business/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2021/02/IMG_0343-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="When you try to do everything, you do none of them properly" loading="lazy" />                    <h3 class="text-xl italic mt-4">28 Jun 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Strategies to unlock business growth by scaling your business</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/developing-a-winning-business-strategy-key-steps-to-consider/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2022/05/IMG-11-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="" loading="lazy" />                    <h3 class="text-xl italic mt-4">21 Jun 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Developing a winning business strategy: Key steps to consider</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/embracing-and-integrating-technology-into-your-business-strategy/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2021/03/Jasonwebinar-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="Online webinar with Jas Darar" loading="lazy" />                    <h3 class="text-xl italic mt-4">14 Jun 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Embracing and integrating technology into your business strategy</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/the-importance-of-a-clear-vision-crafting-a-compelling-business-vision-statement/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2022/05/IMG-6-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="" loading="lazy" />                    <h3 class="text-xl italic mt-4">07 Jun 2023</h3>
+<h2 class="text-3xl font-thin mt-2">The importance of a clear vision: Crafting a compelling business vision statement</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/uncovering-the-potential-roadblocks-to-your-business-success/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2022/05/IMG-13-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="" loading="lazy" />                    <h3 class="text-xl italic mt-4">31 May 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Uncovering the potential roadblocks to your business success</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/decisions-decisions-how-your-choices-affect-your-businesss-future/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2021/09/our-approach-scaled-e1590698603851-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="Benefits of Business Coaching: Increased focus and sustainable growth" loading="lazy" />                    <h3 class="text-xl italic mt-4">24 May 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Decisions, decisions: How your choices affect your business&#8217;s future</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/why-lack-of-deadlines-is-the-death-of-progress/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2022/05/IMG-21-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="" loading="lazy" />                    <h3 class="text-xl italic mt-4">17 May 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Why lack of deadlines is the death of progress</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/leading-vs-managing-understanding-the-distinction/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/05/cycle-of-business-success-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="cycle of business success" loading="lazy" />                    <h3 class="text-xl italic mt-4">10 May 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Leading vs Managing: Understanding the distinction</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/strategies-for-establishing-sustainable-business-growth/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2022/05/IMG-15-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="" loading="lazy" />                    <h3 class="text-xl italic mt-4">03 May 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Strategies for establishing sustainable business growth</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/improving-your-focus-is-key-to-achieving-business-growth/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2021/09/our-approach-scaled-e1590698603851-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="Benefits of Business Coaching: Increased focus and sustainable growth" loading="lazy" />                    <h3 class="text-xl italic mt-4">26 Apr 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Improving your focus is key to achieving business growth</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/the-drawbacks-of-a-business-that-relies-on-people-instead-of-systems/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2022/05/IMG-23-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="" loading="lazy" />                    <h3 class="text-xl italic mt-4">19 Apr 2023</h3>
+<h2 class="text-3xl font-thin mt-2">The drawbacks of a business that relies on people instead of systems</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+<a href="https://reachbusinesscoaching.co.uk/is-your-team-aware-of-the-why-behind-your-business-objectives/" class="blog-post w-full lg:w-1/3 px-8 block mb-16">
+<img width="500" height="400" src="https://reachbusinesscoaching.co.uk/wp-content/uploads/2020/08/Seminars-500x400.jpg" class="attachment-blog-listing size-blog-listing wp-post-image" alt="reach-planning-days" loading="lazy" />                    <h3 class="text-xl italic mt-4">12 Apr 2023</h3>
+<h2 class="text-3xl font-thin mt-2">Is your team aware of the “why” behind your business objectives?</h2>
+<span class="mt-4 inline-block btn is-blue">Read More</span>
+</a>
+</div>
+<div class="flex w-full justify-center items-center pages">
+<nav class="navigation pagination" aria-label="Posts">
+<h2 class="screen-reader-text">Posts navigation</h2>
+<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://reachbusinesscoaching.co.uk/blog/page/2/">2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://reachbusinesscoaching.co.uk/blog/page/21/">21</a>
+<a class="next page-numbers" href="https://reachbusinesscoaching.co.uk/blog/page/2/">Next</a></div>
+</nav>        </div>
+</div>
+</div>
+<div class="bg-blue-700">
+<div class="container mx-auto px-10 lg:px-0">
+<div class="flex flex-wrap lg:flex-no-wrap justify-between items-center text-white py-10">
+<div class="w-full lg:w-auto mb-10 lg:mb-0">
+<h3 class="text-2xl lg:text-4xl font-bold">Enrich Your Business</h3>
+<h4 class="text-xl lg:text-2xl font-light">Never, ever, underestimate the power of Coaching.</h4>
+</div>
+<div>
+<a href="https://reachbusinesscoaching.co.uk/start-your-journey-today/" class="whitespace-no-wrap inline-block btn is-yellow is-large">Start Your Journey</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="bg-blue-400 py-20">
+<div class="container mx-auto px-10 lg:px-0">
+<div class="flex flex-wrap justify-between text-white">
+<div class="mb-10 lg:mb-0 w-full lg:w-2/5 flex">
+<div class="w-1/2">
+<h4 class="text-4xl mb-4 font-semibold">Menu</h4>
+<nav class="text-xl leading-loose">
+<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="https://reachbusinesscoaching.co.uk/your-business-coach/">About Us</a></li>
+<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="https://reachbusinesscoaching.co.uk/business-coaching/">Coaching</a></li>
+<li id="menu-item-290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290"><a href="https://reachbusinesscoaching.co.uk/success-stories/">Success Stories</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-124 current_page_item current_page_parent menu-item-291"><a href="https://reachbusinesscoaching.co.uk/blog/" aria-current="page">Blog</a></li>
+<li id="menu-item-292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-292"><a href="https://reachbusinesscoaching.co.uk/events/">Events</a></li>
+<li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2097"><a href="https://reachbusinesscoaching.co.uk/the-book/">My Book</a></li>
+</ul></div>                    </nav>
+</div>
+<div class="w-1/2">
+<h4 class="text-4xl mb-4 font-semibold">Office</h4>
+<p class="text-xl leading-relaxed">
+REACH Business Coaching<br />
+The Woodyard<br />
+1A Paddock Close<br />
+Long Whatton<br />
+Leicestershire<br />
+LE12 5BY                    </p>
+</div>
+</div>
+<div class="w-full lg:w-2/5 text-left lg:text-right">
+<h4 class="text-4xl mb-4 font-semibold">Let's Talk</h4>
+<h5 class="text-3xl mb-4">We'd love to hear from you!</h5>
+<h5 class="text-3xl mb-4 font-bold"><a href="tel:441509767588">01509 767 588</a></h5>
+<div class="mt-10 flex items-center justify-start lg:justify-end -mx-2">
+<a class="px-2" href="https://www.linkedin.com/in/jasdarar/?originalSubdomain=uk">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/li.png" alt="">
+</a>
+<a class="px-2" href="https://www.instagram.com/reachcoachinguk/">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/in.png" alt="">
+</a>
+<a class="px-2" href="https://twitter.com/reachcoachinguk">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/tw.png" alt="">
+</a>
+<a class="px-2" href="https://www.facebook.com/REACHBusinessCoaching">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/fb.png" alt="">
+</a>
+<a class="px-2" href="https://www.youtube.com/channel/UCbSDGIh9gymkoaepTsccq-g">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/yt.png" alt="">
+</a>
+</div>
+<p style="font-size: 19px;"><br>Visit <a target="_blank" href="https://reachclub.co.uk/">REACH Club</a></p>
+</div>
+</div>
+<div class="mt-10 text-left lg:text-right w-full text-xs text-white">
+<p>Registration No. 11596082 | VAT No. 311446832</p>
+<p>&copy; 2023 REACH Business Coaching</p>
+</div>
+</div>
+</footer>
+<footer class="uppercase">
+<nav class="container mx-auto py-4 px-10 lg:px-0">
+<div class="menu-small-print-container"><ul id="menu-small-print" class="menu"><li id="menu-item-3422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3422"><a href="https://reachbusinesscoaching.co.uk/privacy-policy-updated/">Privacy Policy (Updated)</a></li>
+<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://reachbusinesscoaching.co.uk/terms-conditions/">Terms &#038; Conditions</a></li>
+</ul></div>    </nav>
+</footer>
+</div>
+</div>
+<div id="wpfront-scroll-top-container">
+<img src="https://reachbusinesscoaching.co.uk/wp-content/plugins/wpfront-scroll-top/images/icons/102.png" alt="Go up" />        </div>
+<script type="text/javascript">
+function wpfront_scroll_top_init() {
+if (typeof wpfront_scroll_top === "function" && typeof jQuery !== "undefined") {
+wpfront_scroll_top({"scroll_offset":100,"button_width":0,"button_height":0,"button_opacity":0.8000000000000000444089209850062616169452667236328125,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":20,"marginY":20,"hide_iframe":false,"auto_hide":false,"auto_hide_after":2,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":0});
+} else {
+setTimeout(wpfront_scroll_top_init, 100);
+}
+}
+wpfront_scroll_top_init();
+</script>
+<div id="pum-1933" class="pum pum-overlay pum-theme-1926 pum-theme-lightbox popmake-overlay click_open" data-popmake="{&quot;id&quot;:1933,&quot;slug&quot;:&quot;download-200-profit-boosters&quot;,&quot;theme_id&quot;:1926,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_1933">
+<div id="popmake-1933" class="pum-container popmake theme-1926 pum-responsive pum-responsive-medium responsive size-medium">
+<div id="pum_popup_title_1933" class="pum-title popmake-title">
+Download the 200 Profit Boosters You Can Apply Today PDF for more real-world techniques to increase your profit!			</div>
+<div class="pum-content popmake-content" tabindex="0">
+<p>test</p>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+×            </button>
+</div>
+</div>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/reachbusinesscoaching.co.uk\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1' id='contact-form-7-js'></script>
+<script type='text/javascript' id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"other","leadinPluginVersion":"8.13.58"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://js.hs-scripts.com/8143414.js?integration=WordPress&#038;ver=8.13.58' async defer id='hs-script-loader'></script>
+<script type='text/javascript' id='wpcf7-redirect-script-js-extra'>
+/* <![CDATA[ */
+var wpcf7r = {"ajax_url":"https:\/\/reachbusinesscoaching.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1' id='wpcf7-redirect-script-js'></script>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.7.08086' id='wpfront-scroll-top-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js?ver=1.8.1' id='slick-js'></script>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/dist/js/app.js?ver=1.0' id='alt-scripts-js'></script>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='popup-maker-site-js-extra'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.16.7","pm_dir_url":"https:\/\/reachbusinesscoaching.co.uk\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/reachbusinesscoaching.co.uk\/wp-admin\/admin-ajax.php","restapi":"https:\/\/reachbusinesscoaching.co.uk\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"1925","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/reachbusinesscoaching.co.uk\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/reachbusinesscoaching.co.uk\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-1933":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"1926","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":1933,"slug":"download-200-profit-boosters"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//reachbusinesscoaching.co.uk/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1655197726&#038;ver=1.16.7' id='popup-maker-site-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcrrOEZAAAAAAobRgbix-JRy6mFhjj0eTopY6jb&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcrrOEZAAAAAAobRgbix-JRy6mFhjj0eTopY6jb","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://reachbusinesscoaching.co.uk/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.6.1' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' defer src='https://reachbusinesscoaching.co.uk/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.1.1' id='__ytprefsfitvids__-js'></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+<script>
+AOS.init({
+duration: 1000
+})
+window.addEventListener('DOMContentLoaded', function () {
+jQuery('select').select2()
+jQuery('select').on("select2:select", function(){
+document.getElementById('select2-holder').submit()
+})
+})
+//Smooth scrolling with links
+$('a[href^="#"]').on('click', function(event){
+event.preventDefault();
+if($(this.hash).length > 0) {
+$('html,body').animate({scrollTop:$(this.hash).offset().top}, 1000);   
+}
+});
+// Smooth scrolling when the document is loaded and ready
+$(document).ready(function(){
+if($(location.hash).length > 0) {
+$('html,body').animate({scrollTop:$(location.hash).offset().top}, 1000);
+if($(location.hash) && $('#faqs .accordion-title')) {
+$('#faqs .accordion-title')[3].click()
+}  
+}
+});
+document.addEventListener(
+"DOMContentLoaded", () => {
+new Mmenu( "#my-menu", {
+"navbars": [
+{
+"position": "bottom",
+"content": [
+'<div class="flex w-full flex-col" style="text-align: left;\n' +
+'    justify-content: flex-start;\n' +
+'    align-items: flex-start;\n' +
+'    padding: 20px;">\n' +
+'<img style="width: 150px; margin-bottom: 20px;" src="https://reachbusinesscoaching.co.uk/wp-content/themes/reach-business-coaching/images/logo.svg" alt="logo">\n' +
+'<p>\n' +
+'<span>Tel: </span> <a href="#">01509 767 588</a><br>\n' +
+'Registration No. 11596082 | VAT No. 311446832\n' +
+'</p>\n' +
+'</div>'
+]
+}
+]
+}, {
+// configuration
+classNames: {
+selected: "active"
+}
+});
+}
+);
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.87857413291931 seconds, on 09-08-23 16:45:56 -->
